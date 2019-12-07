@@ -1,0 +1,33 @@
+body {
+  background-color: #282c34;
+}
+.App {
+  text-align: center;
+
+}
+.header {
+  left: 0;
+  top: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  font-weight: bold;
+
+}
+.main {
+color: #ffffff;
+padding: 5px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  font-weight: bold;
+}
